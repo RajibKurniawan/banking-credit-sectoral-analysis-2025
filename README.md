@@ -82,7 +82,7 @@ Dashboard terdiri dari beberapa visual utama:
 ## Reference
 
 - Data Set = <https://www.bps.go.id/id/statistics-table/2/MjQwMCMy/posisi-kredit-investasi-perbankan-dalam-rupiah-dan-valuta-asing-menurut-sektor-ekonomi.html>
-- Dashboard = 
+- Dashboard = <https://public.tableau.com/app/profile/rajib.kurniawan/viz/dashboard-banking-credit-sectoral-analysis-2025/Dashboard1>
 
 ---
 
